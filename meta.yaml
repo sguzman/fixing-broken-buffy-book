@@ -1,0 +1,14 @@
+---
+title:  "Buffy"
+subtitle: "Buffy but subtitle"
+lang: en-US
+cover-image: "cover.jpg"
+author:
+- Blank
+- Author Two
+description: |
+    This is a long
+    description.
+
+    It consists of two paragraphs
+---
